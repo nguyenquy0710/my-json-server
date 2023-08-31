@@ -10,3 +10,10 @@
 - https://app.jsonserver.io/welcome
   - e: quy.nh@engineer.com
   - u: quynh
+
+# Deployment
+
+- https://github.com/marketplace/actions/deploy-to-github-pages
+- https://sevic.dev/github-pages-hosting-deployment/
+- https://www.viget.com/articles/host-build-and-deploy-next-js-projects-on-github-pages/
+- https://viblo.asia/p/deploy-react-app-to-github-pages-djeZ1p1JKWz
