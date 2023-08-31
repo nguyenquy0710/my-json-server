@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Fake json Rest API",
   "main": "main.js",
+  "homepage": "https://{pages-endpoint}/{repo}",
   "scripts": {
     "dev": "nodemon main.js",
     "test": "echo \"Error: no test specified\" && exit 1",
