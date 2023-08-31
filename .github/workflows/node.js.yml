@@ -41,7 +41,7 @@ jobs:
         # configure an external GitHub Pages deploy workflow here
         # https://github.com/JamesIves/github-pages-deploy-action
         # https://github.com/nguyenquy0710/my-json-server
-        uses: nguyenquy0710/my-json-server@4.4.0 
+        uses: nguyenquy0710/my-json-server
         with:
           branch: gh-json-server
           folder: out
